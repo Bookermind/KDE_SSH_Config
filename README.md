@@ -1,5 +1,6 @@
-# Adapted from the brilliant scripts from Jan De Luyck, with thanks #
-# Original can be found here: kcore.org/2022/05/18/ssh-passphrases-kde #
+# Attribution #
+Adapted from the brilliant scripts from Jan De Luyck, with thanks
+Original can be found here: kcore.org/2022/05/18/ssh-passphrases-kde
 
 # KDE_SSH_Config
 Scripts needed to make automatic unlocking of ssh keys work in KDE (as is standard behaviour in Gnome)
