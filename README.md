@@ -1,5 +1,5 @@
 # Attribution #
-Adapted from the brilliant scripts from Jan De Luyck, with thanks
+Adapted from the brilliant scripts from Jan De Luyck, with thanks.  
 Original can be found here: kcore.org/2022/05/18/ssh-passphrases-kde
 
 # KDE_SSH_Config
