@@ -6,7 +6,7 @@ Original can be found [here](https://kcore.org/2022/05/18/ssh-passphrases-kde/)
 Scripts needed to make automatic unlocking of ssh keys work in KDE (as is standard behaviour in Gnome)
 
 # Requirements #
-1. kwallet_pam -- needed to automatically unlock the KDE wallet on logon.  
+1. pam_kwallet -- needed to automatically unlock the KDE wallet on logon.  
 2. ksshaskpass -- usually installed by default  
 
 ## KDE Wallet Unlocking ## 
